@@ -3,11 +3,11 @@ body {
   margin: 0;
   padding: 0;
   background-color: #fafafa;
-  color: #333;
+  color: hsla(60, 3%, 6%, 0.892);
 }
 
 header {
-  background: #1f2937;
+  background: #0968ee;
   color: white;
   padding: 20px;
   text-align: center;
@@ -58,7 +58,7 @@ nav a.active, nav a:hover {
 }
 
 footer {
-  background: #1f2937;
+  background: #2614eb;
   color: white;
   text-align: center;
   padding: 15px;
