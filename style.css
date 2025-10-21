@@ -43,7 +43,7 @@ nav a.active, nav a:hover {
   flex-wrap: wrap;
 }
 
-.member {
+.staff {
   background: white;
   padding: 15px;
   border-radius: 10px;
@@ -52,7 +52,7 @@ nav a.active, nav a:hover {
   width: 200px;
 }
 
-.member img {
+.staff img {
   width: 100%;
   border-radius: 50%;
 }
