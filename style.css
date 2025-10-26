@@ -6,6 +6,10 @@ body {
   color: hsla(60, 3%, 6%, 0.892);
 }
 
+body {
+  background: linear-gradient(to right, #005b96, #79ff50);
+}
+
 header {
   background: #0968ee;
   color: white;
